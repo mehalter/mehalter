@@ -39,15 +39,6 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <br />
 <br />
-<br />
-
-<img align="left" alt="mehalter's Most Used Languages" src="https://github-readme-stats.mehalter.vercel.app/api/top-langs/?username=mehalter&layout=compact&hide=tex,html" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
