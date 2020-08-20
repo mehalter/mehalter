@@ -42,7 +42,16 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 ---
 
+<details>
+<summary>:zap: Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+</details>
+
+<details>
+<summary>:zap: Github Stats</summary>
 <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://mehalter.com
 [linkedin]: https://linkedin.com/in/mehalter
