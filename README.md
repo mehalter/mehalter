@@ -38,6 +38,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+
+<img align="left" alt="mehalter's Most Used Languages" src="https://github-readme-stats.mehalter.vercel.app/api/top-langs/?username=mehalter&layout=compact&hide=tex,html" />
+
+<br />
 <br />
 
 ---
@@ -56,7 +60,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <details>
 <summary>:zap: Github Stats</summary>
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" />
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.mehalter.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://mehalter.com
