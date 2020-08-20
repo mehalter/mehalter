@@ -38,6 +38,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
 
 <img align="left" alt="mehalter's Most Used Languages" src="https://github-readme-stats.mehalter.vercel.app/api/top-langs/?username=mehalter&layout=compact&hide=tex,html" />
 
