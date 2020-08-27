@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com//JuliaTeX/TikzPictures.jl/pull/59) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
-2. 🗣 Commented on [#1](https://github.com//simeonschaub/JuliaMono.jl/issues/1) in [simeonschaub/JuliaMono.jl](https://github.com//simeonschaub/JuliaMono.jl)
-3. 💪 Opened PR [#1](https://github.com//simeonschaub/JuliaMono.jl/pull/1) in [simeonschaub/JuliaMono.jl](https://github.com//simeonschaub/JuliaMono.jl)
-4. 🗣 Commented on [#232](https://github.com//AlgebraicJulia/Catlab.jl/issues/232) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-5. 🗣 Commented on [#232](https://github.com//AlgebraicJulia/Catlab.jl/issues/232) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+1. 🗣 Commented on [#59](https://github.com//JuliaTeX/TikzPictures.jl/issues/59) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+2. 🗣 Commented on [#59](https://github.com//JuliaTeX/TikzPictures.jl/issues/59) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+3. 🗣 Commented on [#59](https://github.com//JuliaTeX/TikzPictures.jl/issues/59) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+4. 💪 Opened PR [#59](https://github.com//JuliaTeX/TikzPictures.jl/pull/59) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+5. 🗣 Commented on [#1](https://github.com//simeonschaub/JuliaMono.jl/issues/1) in [simeonschaub/JuliaMono.jl](https://github.com//simeonschaub/JuliaMono.jl)
 <!--END_SECTION:activity-->
 </details>
 
