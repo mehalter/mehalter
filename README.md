@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com//JuliaTeX/TikzPictures.jl/issues/60) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+1. 🗣 Commented on [#34](https://github.com//mehalter/Petri.jl/issues/34) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
 2. 🗣 Commented on [#60](https://github.com//JuliaTeX/TikzPictures.jl/issues/60) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
-3. ❗️ Opened issue [#62](https://github.com//JuliaTeX/TikzPictures.jl/issues/62) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
-4. 🗣 Commented on [#60](https://github.com//JuliaTeX/TikzPictures.jl/issues/60) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+3. 🗣 Commented on [#60](https://github.com//JuliaTeX/TikzPictures.jl/issues/60) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
+4. ❗️ Opened issue [#62](https://github.com//JuliaTeX/TikzPictures.jl/issues/62) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
 5. 🗣 Commented on [#60](https://github.com//JuliaTeX/TikzPictures.jl/issues/60) in [JuliaTeX/TikzPictures.jl](https://github.com//JuliaTeX/TikzPictures.jl)
 <!--END_SECTION:activity-->
 </details>
