@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com//mehalter/Petri.jl/pull/35) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
-2. 🗣 Commented on [#35](https://github.com//mehalter/Petri.jl/issues/35) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
-3. 🗣 Commented on [#34](https://github.com//mehalter/Petri.jl/issues/34) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
-4. 💪 Opened PR [#35](https://github.com//mehalter/Petri.jl/pull/35) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+1. ❗️ Closed issue [#34](https://github.com//mehalter/Petri.jl/issues/34) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+2. 🗣 Commented on [#34](https://github.com//mehalter/Petri.jl/issues/34) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+3. 🎉 Merged PR [#35](https://github.com//mehalter/Petri.jl/pull/35) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+4. 🗣 Commented on [#35](https://github.com//mehalter/Petri.jl/issues/35) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
 5. 🗣 Commented on [#34](https://github.com//mehalter/Petri.jl/issues/34) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
 <!--END_SECTION:activity-->
 </details>
