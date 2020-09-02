@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com//mehalter/Petri.jl/pull/37) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
-2. 💪 Opened PR [#37](https://github.com//mehalter/Petri.jl/pull/37) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
-3. 💪 Opened PR [#250](https://github.com//AlgebraicJulia/Catlab.jl/pull/250) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-4. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-5. ❗️ Opened issue [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+1. 🎉 Merged PR [#1](https://github.com//JuliaTeX/TikzCDs.jl/pull/1) in [JuliaTeX/TikzCDs.jl](https://github.com//JuliaTeX/TikzCDs.jl)
+2. 💪 Opened PR [#1](https://github.com//JuliaTeX/TikzCDs.jl/pull/1) in [JuliaTeX/TikzCDs.jl](https://github.com//JuliaTeX/TikzCDs.jl)
+3. 🎉 Merged PR [#37](https://github.com//mehalter/Petri.jl/pull/37) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+4. 💪 Opened PR [#37](https://github.com//mehalter/Petri.jl/pull/37) in [mehalter/Petri.jl](https://github.com//mehalter/Petri.jl)
+5. 💪 Opened PR [#250](https://github.com//AlgebraicJulia/Catlab.jl/pull/250) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
