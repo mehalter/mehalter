@@ -48,9 +48,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//isene/VcalView/issues/1) in [isene/VcalView](https://github.com//isene/VcalView)
 2. 🗣 Commented on [#1](https://github.com//isene/VcalView/issues/1) in [isene/VcalView](https://github.com//isene/VcalView)
-3. 🗣 Commented on [#258](https://github.com//AlgebraicJulia/Catlab.jl/issues/258) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-4. 💪 Opened PR [#258](https://github.com//AlgebraicJulia/Catlab.jl/pull/258) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-5. ❗️ Opened issue [#1](https://github.com//isene/VcalView/issues/1) in [isene/VcalView](https://github.com//isene/VcalView)
+3. 🗣 Commented on [#1](https://github.com//isene/VcalView/issues/1) in [isene/VcalView](https://github.com//isene/VcalView)
+4. 🗣 Commented on [#258](https://github.com//AlgebraicJulia/Catlab.jl/issues/258) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+5. 💪 Opened PR [#258](https://github.com//AlgebraicJulia/Catlab.jl/pull/258) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
