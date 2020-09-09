@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#261](https://github.com//AlgebraicJulia/Catlab.jl/issues/261) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-2. ❗️ Opened issue [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-3. 🎉 Merged PR [#2](https://github.com//mehalter/VirtualEnv.jl/pull/2) in [mehalter/VirtualEnv.jl](https://github.com//mehalter/VirtualEnv.jl)
-4. 💪 Opened PR [#2](https://github.com//mehalter/VirtualEnv.jl/pull/2) in [mehalter/VirtualEnv.jl](https://github.com//mehalter/VirtualEnv.jl)
-5. 💪 Opened PR [#67](https://github.com//Roger-luo/Comonicon.jl/pull/67) in [Roger-luo/Comonicon.jl](https://github.com//Roger-luo/Comonicon.jl)
+1. 🗣 Commented on [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+2. 🗣 Commented on [#261](https://github.com//AlgebraicJulia/Catlab.jl/issues/261) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+3. ❗️ Opened issue [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+4. 🎉 Merged PR [#2](https://github.com//mehalter/VirtualEnv.jl/pull/2) in [mehalter/VirtualEnv.jl](https://github.com//mehalter/VirtualEnv.jl)
+5. 💪 Opened PR [#2](https://github.com//mehalter/VirtualEnv.jl/pull/2) in [mehalter/VirtualEnv.jl](https://github.com//mehalter/VirtualEnv.jl)
 <!--END_SECTION:activity-->
 </details>
 
