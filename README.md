@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com//makerdiary/python-keyboard/issues/7) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-2. 💪 Opened PR [#7](https://github.com//makerdiary/python-keyboard/pull/7) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-3. 🗣 Commented on [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-4. 🗣 Commented on [#261](https://github.com//AlgebraicJulia/Catlab.jl/issues/261) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
-5. ❗️ Opened issue [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+1. 🗣 Commented on [#267](https://github.com//AlgebraicJulia/Catlab.jl/issues/267) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+2. 🗣 Commented on [#7](https://github.com//makerdiary/python-keyboard/issues/7) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+3. 💪 Opened PR [#7](https://github.com//makerdiary/python-keyboard/pull/7) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+4. 🗣 Commented on [#6](https://github.com//makerdiary/python-keyboard/issues/6) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+5. 🗣 Commented on [#261](https://github.com//AlgebraicJulia/Catlab.jl/issues/261) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
