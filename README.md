@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//makerdiary/python-keyboard/issues/9) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-2. 🗣 Commented on [#10](https://github.com//makerdiary/python-keyboard/issues/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-3. 💪 Opened PR [#10](https://github.com//makerdiary/python-keyboard/pull/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-4. 🗣 Commented on [#9](https://github.com//makerdiary/python-keyboard/issues/9) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+1. 🗣 Commented on [#10](https://github.com//makerdiary/python-keyboard/issues/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+2. 🗣 Commented on [#9](https://github.com//makerdiary/python-keyboard/issues/9) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+3. 🗣 Commented on [#10](https://github.com//makerdiary/python-keyboard/issues/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+4. 💪 Opened PR [#10](https://github.com//makerdiary/python-keyboard/pull/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
 5. 🗣 Commented on [#9](https://github.com//makerdiary/python-keyboard/issues/9) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
 <!--END_SECTION:activity-->
 </details>
