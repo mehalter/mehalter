@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-2. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-3. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+1. 🎉 Merged PR [#1](https://github.com//mehalter/python-keyboard/pull/1) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
+2. 💪 Opened PR [#1](https://github.com//mehalter/python-keyboard/pull/1) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
+3. ❗️ Closed issue [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
 4. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
 5. 🗣 Commented on [#4](https://github.com//makerdiary/python-keyboard/issues/4) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
 <!--END_SECTION:activity-->
