@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/19) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-2. 🎉 Merged PR [#18](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/18) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-3. 💪 Opened PR [#18](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/18) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-4. 🎉 Merged PR [#17](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/17) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-5. 🎉 Merged PR [#1](https://github.com//mehalter/python-keyboard/pull/1) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
+1. 🗣 Commented on [#19](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/issues/19) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
+2. 💪 Opened PR [#19](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/19) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
+3. 🎉 Merged PR [#18](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/18) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
+4. 💪 Opened PR [#18](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/18) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
+5. 🎉 Merged PR [#17](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/17) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
 <!--END_SECTION:activity-->
 </details>
 
