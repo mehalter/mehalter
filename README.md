@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//mehalter/python-keyboard/pull/2) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
-2. 💪 Opened PR [#2](https://github.com//mehalter/python-keyboard/pull/2) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
-3. ❌ Closed PR [#20](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/20) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-4. 💪 Opened PR [#20](https://github.com//AlgebraicJulia/AlgebraicPetri.jl/pull/20) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com//AlgebraicJulia/AlgebraicPetri.jl)
-5. 🗣 Commented on [#11](https://github.com//makerdiary/python-keyboard/issues/11) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+1. 🗣 Commented on [#3816](https://github.com//firefly-iii/firefly-iii/issues/3816) in [firefly-iii/firefly-iii](https://github.com//firefly-iii/firefly-iii)
+2. 🗣 Commented on [#278](https://github.com//AlgebraicJulia/Catlab.jl/issues/278) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+3. 🗣 Commented on [#278](https://github.com//AlgebraicJulia/Catlab.jl/issues/278) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+4. 🗣 Commented on [#278](https://github.com//AlgebraicJulia/Catlab.jl/issues/278) in [AlgebraicJulia/Catlab.jl](https://github.com//AlgebraicJulia/Catlab.jl)
+5. 🎉 Merged PR [#2](https://github.com//mehalter/python-keyboard/pull/2) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
 <!--END_SECTION:activity-->
 </details>
 
