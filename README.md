@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com//makerdiary/python-keyboard/pull/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-2. 🗣 Commented on [#10](https://github.com//makerdiary/python-keyboard/issues/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
-3. 🎉 Merged PR [#3](https://github.com//mehalter/python-keyboard/pull/3) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
-4. 💪 Opened PR [#3](https://github.com//mehalter/python-keyboard/pull/3) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
-5. 🗣 Commented on [#3816](https://github.com//firefly-iii/firefly-iii/issues/3816) in [firefly-iii/firefly-iii](https://github.com//firefly-iii/firefly-iii)
+1. 🗣 Commented on [#11](https://github.com//makerdiary/python-keyboard/issues/11) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+2. 🗣 Commented on [#11](https://github.com//makerdiary/python-keyboard/issues/11) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+3. ❌ Closed PR [#10](https://github.com//makerdiary/python-keyboard/pull/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+4. 🗣 Commented on [#10](https://github.com//makerdiary/python-keyboard/issues/10) in [makerdiary/python-keyboard](https://github.com//makerdiary/python-keyboard)
+5. 🎉 Merged PR [#3](https://github.com//mehalter/python-keyboard/pull/3) in [mehalter/python-keyboard](https://github.com//mehalter/python-keyboard)
 <!--END_SECTION:activity-->
 </details>
 
