@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/22) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. ❗️ Closed issue [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
-3. 🗣 Commented on [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
+1. 💪 Opened PR [#5](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/5) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+2. 🎉 Merged PR [#22](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/22) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+3. ❗️ Closed issue [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
 4. 🗣 Commented on [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
 5. 🗣 Commented on [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
 <!--END_SECTION:activity-->
