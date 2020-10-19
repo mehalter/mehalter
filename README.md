@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#296](https://github.com/AlgebraicJulia/Catlab.jl/pull/296) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 💪 Opened PR [#5](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/5) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
-3. 🎉 Merged PR [#22](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/22) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. ❗️ Closed issue [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
-5. 🗣 Commented on [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
+1. 💪 Opened PR [#23](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/23) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 💪 Opened PR [#296](https://github.com/AlgebraicJulia/Catlab.jl/pull/296) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 💪 Opened PR [#5](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/5) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+4. 🎉 Merged PR [#22](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/22) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. ❗️ Closed issue [#19](https://github.com/makerdiary/python-keyboard/issues/19) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
 <!--END_SECTION:activity-->
 </details>
 
