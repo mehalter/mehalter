@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/23) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 💪 Opened PR [#23](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/23) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. 💪 Opened PR [#296](https://github.com/AlgebraicJulia/Catlab.jl/pull/296) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. 💪 Opened PR [#5](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/5) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
-5. 🎉 Merged PR [#22](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/22) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. ❗️ Opened issue [#301](https://github.com/AlgebraicJulia/Catlab.jl/issues/301) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. ❗️ Opened issue [#300](https://github.com/AlgebraicJulia/Catlab.jl/issues/300) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 🎉 Merged PR [#23](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/23) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+4. 💪 Opened PR [#23](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/23) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. 💪 Opened PR [#296](https://github.com/AlgebraicJulia/Catlab.jl/pull/296) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
