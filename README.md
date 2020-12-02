@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
-2. ❗️ Opened issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
-3. 🎉 Merged PR [#30](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/30) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. 💪 Opened PR [#30](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/30) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🎉 Merged PR [#29](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/29) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. ❗️ Opened issue [#16825](https://github.com/zulip/zulip/issues/16825) in [zulip/zulip](https://github.com/zulip/zulip)
+2. ❗️ Closed issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
+3. ❗️ Opened issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
+4. 🎉 Merged PR [#30](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/30) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. 💪 Opened PR [#30](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/30) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 <!--END_SECTION:activity-->
 </details>
 
