@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/31) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 🗣 Commented on [#31](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/31) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. ❗️ Opened issue [#16825](https://github.com/zulip/zulip/issues/16825) in [zulip/zulip](https://github.com/zulip/zulip)
-4. ❗️ Closed issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
-5. ❗️ Opened issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
+1. 💪 Opened PR [#32](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/32) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🎉 Merged PR [#31](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/31) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+3. 🗣 Commented on [#31](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/31) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+4. ❗️ Opened issue [#16825](https://github.com/zulip/zulip/issues/16825) in [zulip/zulip](https://github.com/zulip/zulip)
+5. ❗️ Closed issue [#1](https://github.com/mehalter/AOC.jl/issues/1) in [mehalter/AOC.jl](https://github.com/mehalter/AOC.jl)
 <!--END_SECTION:activity-->
 </details>
 
