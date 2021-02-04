@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1538](https://github.com/TuringLang/Turing.jl/pull/1538) in [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl)
-2. 🎉 Merged PR [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. 🗣 Commented on [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. 💪 Opened PR [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🎉 Merged PR [#39](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/39) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. 💪 Opened PR [#41](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/41) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 💪 Opened PR [#1538](https://github.com/TuringLang/Turing.jl/pull/1538) in [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl)
+3. 🎉 Merged PR [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+4. 🗣 Commented on [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. 💪 Opened PR [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 <!--END_SECTION:activity-->
 </details>
 
