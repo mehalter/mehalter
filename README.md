@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
-2. 💪 Opened PR [#41](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/41) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. 💪 Opened PR [#1538](https://github.com/TuringLang/Turing.jl/pull/1538) in [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl)
-4. 🎉 Merged PR [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🗣 Commented on [#40](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/40) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. 🗣 Commented on [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
+2. ❗️ Opened issue [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
+3. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
+4. 💪 Opened PR [#41](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/41) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. 💪 Opened PR [#1538](https://github.com/TuringLang/Turing.jl/pull/1538) in [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl)
 <!--END_SECTION:activity-->
 </details>
 
