@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 🗣 Commented on [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
-3. ❗️ Opened issue [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
-4. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
-5. 💪 Opened PR [#41](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/41) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+4. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. 🗣 Commented on [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
 <!--END_SECTION:activity-->
 </details>
 
