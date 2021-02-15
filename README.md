@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+1. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 3. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-5. 🗣 Commented on [#4](https://github.com/jpfairbanks/querygarden/issues/4) in [jpfairbanks/querygarden](https://github.com/jpfairbanks/querygarden)
+4. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
