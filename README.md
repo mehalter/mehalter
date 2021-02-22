@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
-2. 💪 Opened PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
-3. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-5. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+1. 🎉 Merged PR [#42](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/42) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🎉 Merged PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
+3. 💪 Opened PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
+4. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. 🗣 Commented on [#265](https://github.com/AlgebraicJulia/Catlab.jl/issues/265) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
