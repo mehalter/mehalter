@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#593](https://github.com/balena-io/open-balena-api/pull/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-2. 🎉 Merged PR [#42](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/42) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. 🎉 Merged PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
-4. 💪 Opened PR [#41](https://github.com/mehalter/Petri.jl/pull/41) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
-5. 🗣 Commented on [#372](https://github.com/AlgebraicJulia/Catlab.jl/issues/372) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+1. ❗️ Closed issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+2. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+3. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+4. ❗️ Opened issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+5. 💪 Opened PR [#593](https://github.com/balena-io/open-balena-api/pull/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 <!--END_SECTION:activity-->
 </details>
 
