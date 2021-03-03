@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-2. ❗️ Closed issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
-3. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+2. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+3. ❗️ Closed issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
 4. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
-5. ❗️ Opened issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+5. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
 <!--END_SECTION:activity-->
 </details>
 
