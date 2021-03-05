@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+1. 💪 Opened PR [#599](https://github.com/balena-io/open-balena-api/pull/599) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 2. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 3. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-4. ❗️ Closed issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
-5. 🗣 Commented on [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+4. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+5. ❗️ Closed issue [#51](https://github.com/ddvk/remarkable2-framebuffer/issues/51) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
 <!--END_SECTION:activity-->
 </details>
 
