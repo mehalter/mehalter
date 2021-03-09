@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#601](https://github.com/balena-io/open-balena-api/pull/601) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-2. 💪 Opened PR [#599](https://github.com/balena-io/open-balena-api/pull/599) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-3. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+1. 💪 Opened PR [#1063](https://github.com/balena-io/balena-sdk/pull/1063) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+2. 💪 Opened PR [#601](https://github.com/balena-io/open-balena-api/pull/601) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+3. 💪 Opened PR [#599](https://github.com/balena-io/open-balena-api/pull/599) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 4. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 5. 🗣 Commented on [#593](https://github.com/balena-io/open-balena-api/issues/593) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 <!--END_SECTION:activity-->
