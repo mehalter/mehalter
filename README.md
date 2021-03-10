@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
-2. ❌ Closed PR [#1063](https://github.com/balena-io/balena-sdk/pull/1063) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
-3. 💪 Opened PR [#1063](https://github.com/balena-io/balena-sdk/pull/1063) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
-4. 💪 Opened PR [#601](https://github.com/balena-io/open-balena-api/pull/601) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
-5. 💪 Opened PR [#599](https://github.com/balena-io/open-balena-api/pull/599) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
+1. 💪 Opened PR [#1064](https://github.com/balena-io/balena-sdk/pull/1064) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+2. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
+3. ❌ Closed PR [#1063](https://github.com/balena-io/balena-sdk/pull/1063) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+4. 💪 Opened PR [#1063](https://github.com/balena-io/balena-sdk/pull/1063) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+5. 💪 Opened PR [#601](https://github.com/balena-io/open-balena-api/pull/601) in [balena-io/open-balena-api](https://github.com/balena-io/open-balena-api)
 <!--END_SECTION:activity-->
 </details>
 
