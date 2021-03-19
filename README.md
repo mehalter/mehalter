@@ -50,7 +50,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 2. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 3. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 4. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
-5. 💪 Opened PR [#1685](https://github.com/balena-io/docs/pull/1685) in [balena-io/docs](https://github.com/balena-io/docs)
+5. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 <!--END_SECTION:activity-->
 </details>
 
