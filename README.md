@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
-3. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
+1. 🗣 Commented on [#33](https://github.com/epirecipes/sir-julia/issues/33) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
+2. 💪 Opened PR [#15](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/15) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+3. 💪 Opened PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 4. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 5. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 <!--END_SECTION:activity-->
