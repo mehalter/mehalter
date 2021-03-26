@@ -46,7 +46,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
+1. 💪 Opened PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 2. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 3. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
 4. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
