@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/epirecipes/sir-julia/pull/34) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
-2. 🗣 Commented on [#33](https://github.com/epirecipes/sir-julia/issues/33) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
-3. 💪 Opened PR [#15](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/15) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
-4. 💪 Opened PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🗣 Commented on [#1685](https://github.com/balena-io/docs/issues/1685) in [balena-io/docs](https://github.com/balena-io/docs)
+1. 💪 Opened PR [#33](https://github.com/peerdavid/remapy/pull/33) in [peerdavid/remapy](https://github.com/peerdavid/remapy)
+2. 💪 Opened PR [#34](https://github.com/epirecipes/sir-julia/pull/34) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
+3. 🗣 Commented on [#33](https://github.com/epirecipes/sir-julia/issues/33) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
+4. 💪 Opened PR [#15](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/15) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+5. 💪 Opened PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
 <!--END_SECTION:activity-->
 </details>
 
