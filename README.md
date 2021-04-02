@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1070](https://github.com/balena-io/balena-sdk/pull/1070) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
-2. 💪 Opened PR [#33](https://github.com/peerdavid/remapy/pull/33) in [peerdavid/remapy](https://github.com/peerdavid/remapy)
-3. 💪 Opened PR [#34](https://github.com/epirecipes/sir-julia/pull/34) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
-4. 🗣 Commented on [#33](https://github.com/epirecipes/sir-julia/issues/33) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
-5. 💪 Opened PR [#15](https://github.com/AlgebraicJulia/algebraicjulia.org/pull/15) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+1. 🗣 Commented on [#56](https://github.com/ddvk/remarkable2-framebuffer/issues/56) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+2. 💪 Opened PR [#1070](https://github.com/balena-io/balena-sdk/pull/1070) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+3. 💪 Opened PR [#33](https://github.com/peerdavid/remapy/pull/33) in [peerdavid/remapy](https://github.com/peerdavid/remapy)
+4. 💪 Opened PR [#34](https://github.com/epirecipes/sir-julia/pull/34) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
+5. 🗣 Commented on [#33](https://github.com/epirecipes/sir-julia/issues/33) in [epirecipes/sir-julia](https://github.com/epirecipes/sir-julia)
 <!--END_SECTION:activity-->
 </details>
 
