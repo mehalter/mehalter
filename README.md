@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-2. 🗣 Commented on [#56](https://github.com/ddvk/remarkable2-framebuffer/issues/56) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
-3. 🗣 Commented on [#117](https://github.com/rmkit-dev/rmkit/issues/117) in [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit)
+1. 🎉 Merged PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. ❗️ Opened issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
+3. 🗣 Commented on [#56](https://github.com/ddvk/remarkable2-framebuffer/issues/56) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
 4. 🗣 Commented on [#117](https://github.com/rmkit-dev/rmkit/issues/117) in [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit)
 5. 🗣 Commented on [#117](https://github.com/rmkit-dev/rmkit/issues/117) in [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit)
 <!--END_SECTION:activity-->
