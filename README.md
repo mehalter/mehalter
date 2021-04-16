@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-2. 🗣 Commented on [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-3. 🎉 Merged PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. ❗️ Opened issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-5. 🗣 Commented on [#56](https://github.com/ddvk/remarkable2-framebuffer/issues/56) in [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer)
+1. 💪 Opened PR [#26](https://github.com/AlgebraicJulia/AlgebraicRelations.jl/pull/26) in [AlgebraicJulia/AlgebraicRelations.jl](https://github.com/AlgebraicJulia/AlgebraicRelations.jl)
+2. ❗️ Closed issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
+3. 🗣 Commented on [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
+4. 🎉 Merged PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. ❗️ Opened issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
 <!--END_SECTION:activity-->
 </details>
 
