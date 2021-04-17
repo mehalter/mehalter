@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/47) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 💪 Opened PR [#26](https://github.com/AlgebraicJulia/AlgebraicRelations.jl/pull/26) in [AlgebraicJulia/AlgebraicRelations.jl](https://github.com/AlgebraicJulia/AlgebraicRelations.jl)
-3. ❗️ Closed issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-4. 🗣 Commented on [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
-5. 🎉 Merged PR [#46](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/46) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. 💪 Opened PR [#43](https://github.com/mehalter/Petri.jl/pull/43) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
+2. 🎉 Merged PR [#47](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/47) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+3. 💪 Opened PR [#26](https://github.com/AlgebraicJulia/AlgebraicRelations.jl/pull/26) in [AlgebraicJulia/AlgebraicRelations.jl](https://github.com/AlgebraicJulia/AlgebraicRelations.jl)
+4. ❗️ Closed issue [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
+5. 🗣 Commented on [#273](https://github.com/ddvk/remarkable-hacks/issues/273) in [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks)
 <!--END_SECTION:activity-->
 </details>
 
