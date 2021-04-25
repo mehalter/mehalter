@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/49) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 🎉 Merged PR [#53](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/53) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
-3. 🎉 Merged PR [#52](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/52) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
-4. 🗣 Commented on [#52](https://github.com/ideas-team/IDEAS-Conference-Planner/issues/52) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
-5. 🎉 Merged PR [#51](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/51) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+1. ❗️ Opened issue [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
+2. 💪 Opened PR [#49](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/49) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+3. 🎉 Merged PR [#53](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/53) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+4. 🎉 Merged PR [#52](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/52) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+5. 🗣 Commented on [#52](https://github.com/ideas-team/IDEAS-Conference-Planner/issues/52) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
 <!--END_SECTION:activity-->
 </details>
 
