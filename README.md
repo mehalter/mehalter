@@ -48,9 +48,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
 2. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
-3. ❗️ Opened issue [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
-4. 💪 Opened PR [#49](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/49) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🎉 Merged PR [#53](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/53) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+3. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
+4. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
+5. ❗️ Opened issue [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
 <!--END_SECTION:activity-->
 </details>
 
