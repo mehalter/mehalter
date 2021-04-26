@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
+1. 💪 Opened PR [#36](https://github.com/balena-io/contrato/pull/36) in [balena-io/contrato](https://github.com/balena-io/contrato)
 2. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
 3. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
 4. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
-5. ❗️ Opened issue [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
+5. 🗣 Commented on [#24](https://github.com/matteodelabre/vnsee/issues/24) in [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee)
 <!--END_SECTION:activity-->
 </details>
 
