@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-2. 🗣 Commented on [#75](https://github.com/balena-io-modules/skhema/issues/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
-3. ❌ Closed PR [#75](https://github.com/balena-io-modules/skhema/pull/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
-4. 💪 Opened PR [#75](https://github.com/balena-io-modules/skhema/pull/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
-5. ❌ Closed PR [#36](https://github.com/balena-io/contrato/pull/36) in [balena-io/contrato](https://github.com/balena-io/contrato)
+1. 🗣 Commented on [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+2. ❗️ Opened issue [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+3. 🗣 Commented on [#75](https://github.com/balena-io-modules/skhema/issues/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
+4. ❌ Closed PR [#75](https://github.com/balena-io-modules/skhema/pull/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
+5. 💪 Opened PR [#75](https://github.com/balena-io-modules/skhema/pull/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
 <!--END_SECTION:activity-->
 </details>
 
