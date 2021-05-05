@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#584](https://github.com/drwpow/openapi-typescript/issues/584) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-2. 💪 Opened PR [#585](https://github.com/drwpow/openapi-typescript/pull/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-3. 🗣 Commented on [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-4. ❗️ Opened issue [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-5. 🗣 Commented on [#75](https://github.com/balena-io-modules/skhema/issues/75) in [balena-io-modules/skhema](https://github.com/balena-io-modules/skhema)
+1. 💪 Opened PR [#39](https://github.com/balena-io/contrato/pull/39) in [balena-io/contrato](https://github.com/balena-io/contrato)
+2. 🗣 Commented on [#584](https://github.com/drwpow/openapi-typescript/issues/584) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+3. 💪 Opened PR [#585](https://github.com/drwpow/openapi-typescript/pull/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+4. 🗣 Commented on [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+5. ❗️ Opened issue [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
 <!--END_SECTION:activity-->
 </details>
 
