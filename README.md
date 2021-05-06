@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
-2. 💪 Opened PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
-3. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
-4. 🗣 Commented on [#41](https://github.com/product-os/contrato/issues/41) in [product-os/contrato](https://github.com/product-os/contrato)
-5. 💪 Opened PR [#41](https://github.com/product-os/contrato/pull/41) in [product-os/contrato](https://github.com/product-os/contrato)
+1. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
+2. ❌ Closed PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
+3. 💪 Opened PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
+4. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
+5. 🗣 Commented on [#41](https://github.com/product-os/contrato/issues/41) in [product-os/contrato](https://github.com/product-os/contrato)
 <!--END_SECTION:activity-->
 </details>
 
