@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/balena-io/contrato/pull/39) in [balena-io/contrato](https://github.com/balena-io/contrato)
-2. 🗣 Commented on [#584](https://github.com/drwpow/openapi-typescript/issues/584) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-3. 💪 Opened PR [#585](https://github.com/drwpow/openapi-typescript/pull/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-4. 🗣 Commented on [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-5. ❗️ Opened issue [#583](https://github.com/drwpow/openapi-typescript/issues/583) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+1. 💪 Opened PR [#1699](https://github.com/balena-os/balena-supervisor/pull/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
+2. ❗️ Closed issue [#19](https://github.com/product-os/contrato/issues/19) in [product-os/contrato](https://github.com/product-os/contrato)
+3. 🗣 Commented on [#19](https://github.com/product-os/contrato/issues/19) in [product-os/contrato](https://github.com/product-os/contrato)
+4. 🗣 Commented on [#40](https://github.com/product-os/contrato/issues/40) in [product-os/contrato](https://github.com/product-os/contrato)
+5. 💪 Opened PR [#40](https://github.com/product-os/contrato/pull/40) in [product-os/contrato](https://github.com/product-os/contrato)
 <!--END_SECTION:activity-->
 </details>
 
