@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/seebye/ueberzug/issues/146) in [seebye/ueberzug](https://github.com/seebye/ueberzug)
-2. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
-3. ❌ Closed PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
-4. 💪 Opened PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
-5. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
+1. 🗣 Commented on [#585](https://github.com/drwpow/openapi-typescript/issues/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+2. 🗣 Commented on [#585](https://github.com/drwpow/openapi-typescript/issues/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+3. 🗣 Commented on [#146](https://github.com/seebye/ueberzug/issues/146) in [seebye/ueberzug](https://github.com/seebye/ueberzug)
+4. 🗣 Commented on [#1699](https://github.com/balena-os/balena-supervisor/issues/1699) in [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor)
+5. ❌ Closed PR [#42](https://github.com/product-os/contrato/pull/42) in [product-os/contrato](https://github.com/product-os/contrato)
 <!--END_SECTION:activity-->
 </details>
 
