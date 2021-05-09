@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/AlgebraicJulia/Catlab.jl/issues/423) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 💪 Opened PR [#43](https://github.com/product-os/contrato/pull/43) in [product-os/contrato](https://github.com/product-os/contrato)
-3. 🗣 Commented on [#585](https://github.com/drwpow/openapi-typescript/issues/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
+1. ❌ Closed PR [#426](https://github.com/AlgebraicJulia/Catlab.jl/pull/426) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. 🗣 Commented on [#423](https://github.com/AlgebraicJulia/Catlab.jl/issues/423) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 💪 Opened PR [#43](https://github.com/product-os/contrato/pull/43) in [product-os/contrato](https://github.com/product-os/contrato)
 4. 🗣 Commented on [#585](https://github.com/drwpow/openapi-typescript/issues/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
-5. 🗣 Commented on [#146](https://github.com/seebye/ueberzug/issues/146) in [seebye/ueberzug](https://github.com/seebye/ueberzug)
+5. 🗣 Commented on [#585](https://github.com/drwpow/openapi-typescript/issues/585) in [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript)
 <!--END_SECTION:activity-->
 </details>
 
