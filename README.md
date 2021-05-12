@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/57) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
-2. 🎉 Merged PR [#56](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/56) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
-3. ❌ Closed PR [#426](https://github.com/AlgebraicJulia/Catlab.jl/pull/426) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. 🗣 Commented on [#423](https://github.com/AlgebraicJulia/Catlab.jl/issues/423) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-5. 💪 Opened PR [#43](https://github.com/product-os/contrato/pull/43) in [product-os/contrato](https://github.com/product-os/contrato)
+1. 🗣 Commented on [#43](https://github.com/product-os/contrato/issues/43) in [product-os/contrato](https://github.com/product-os/contrato)
+2. 🎉 Merged PR [#57](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/57) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+3. 🎉 Merged PR [#56](https://github.com/ideas-team/IDEAS-Conference-Planner/pull/56) in [ideas-team/IDEAS-Conference-Planner](https://github.com/ideas-team/IDEAS-Conference-Planner)
+4. ❌ Closed PR [#426](https://github.com/AlgebraicJulia/Catlab.jl/pull/426) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. 🗣 Commented on [#423](https://github.com/AlgebraicJulia/Catlab.jl/issues/423) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
