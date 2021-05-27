@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#432](https://github.com/AlgebraicJulia/Catlab.jl/issues/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. ❌ Reopened PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-3. ❌ Closed PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. ❌ Reopened PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-5. ❌ Closed PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. 🗣 Commented on [#432](https://github.com/AlgebraicJulia/Catlab.jl/issues/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. ❌ Reopened PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+4. ❌ Closed PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. ❌ Reopened PR [#432](https://github.com/AlgebraicJulia/Catlab.jl/pull/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
 <!--END_SECTION:activity-->
 </details>
 
