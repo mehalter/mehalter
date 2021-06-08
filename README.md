@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#434](https://github.com/AlgebraicJulia/Catlab.jl/pull/434) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 🗣 Commented on [#16](https://github.com/AlgebraicJulia/algebraicjulia.org/issues/16) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
-3. 🗣 Commented on [#419](https://github.com/domluna/JuliaFormatter.jl/issues/419) in [domluna/JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl)
-4. ❗️ Opened issue [#419](https://github.com/domluna/JuliaFormatter.jl/issues/419) in [domluna/JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl)
-5. 🗣 Commented on [#432](https://github.com/AlgebraicJulia/Catlab.jl/issues/432) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+1. 🎉 Merged PR [#434](https://github.com/AlgebraicJulia/Catlab.jl/pull/434) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. 🗣 Commented on [#434](https://github.com/AlgebraicJulia/Catlab.jl/issues/434) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 💪 Opened PR [#434](https://github.com/AlgebraicJulia/Catlab.jl/pull/434) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+4. 🗣 Commented on [#16](https://github.com/AlgebraicJulia/algebraicjulia.org/issues/16) in [AlgebraicJulia/algebraicjulia.org](https://github.com/AlgebraicJulia/algebraicjulia.org)
+5. 🗣 Commented on [#419](https://github.com/domluna/JuliaFormatter.jl/issues/419) in [domluna/JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl)
 <!--END_SECTION:activity-->
 </details>
 
