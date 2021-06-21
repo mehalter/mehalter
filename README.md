@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/AlgebraicJulia/Catlab.jl/issues/438) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-2. 🗣 Commented on [#1101](https://github.com/balena-io/balena-sdk/issues/1101) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
-3. 🗣 Commented on [#1101](https://github.com/balena-io/balena-sdk/issues/1101) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
-4. 🎉 Merged PR [#2](https://github.com/JuliaTeX/TikzCDs.jl/pull/2) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-5. 💪 Opened PR [#1101](https://github.com/balena-io/balena-sdk/pull/1101) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+1. 🗣 Commented on [#439](https://github.com/AlgebraicJulia/Catlab.jl/issues/439) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+2. 💪 Opened PR [#439](https://github.com/AlgebraicJulia/Catlab.jl/pull/439) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+3. 🗣 Commented on [#438](https://github.com/AlgebraicJulia/Catlab.jl/issues/438) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+4. 🗣 Commented on [#1101](https://github.com/balena-io/balena-sdk/issues/1101) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
+5. 🗣 Commented on [#1101](https://github.com/balena-io/balena-sdk/issues/1101) in [balena-io/balena-sdk](https://github.com/balena-io/balena-sdk)
 <!--END_SECTION:activity-->
 </details>
 
