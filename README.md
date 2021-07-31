@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mehalter/mehalter.github.io/pull/1) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-2. 💪 Opened PR [#1](https://github.com/mehalter/mehalter.github.io/pull/1) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-3. 🗣 Commented on [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. 🗣 Commented on [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🗣 Commented on [#3](https://github.com/balenablocks/wifi-connect/issues/3) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
+1. 🎉 Merged PR [#3](https://github.com/mehalter/mehalter.github.io/pull/3) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+2. 💪 Opened PR [#3](https://github.com/mehalter/mehalter.github.io/pull/3) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+3. 🎉 Merged PR [#2](https://github.com/mehalter/mehalter.github.io/pull/2) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+4. 💪 Opened PR [#2](https://github.com/mehalter/mehalter.github.io/pull/2) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+5. 🎉 Merged PR [#1](https://github.com/mehalter/mehalter.github.io/pull/1) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
 <!--END_SECTION:activity-->
 </details>
 
