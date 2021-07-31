@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. 💪 Opened PR [#1](https://github.com/mehalter/mehalter.github.io/pull/1) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
 2. 🗣 Commented on [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-3. 🗣 Commented on [#3](https://github.com/balenablocks/wifi-connect/issues/3) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
-4. ❌ Closed PR [#13](https://github.com/balenablocks/wifi-connect/pull/13) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
-5. 🗣 Commented on [#13](https://github.com/balenablocks/wifi-connect/issues/13) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
+3. 🗣 Commented on [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+4. 🗣 Commented on [#3](https://github.com/balenablocks/wifi-connect/issues/3) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
+5. ❌ Closed PR [#13](https://github.com/balenablocks/wifi-connect/pull/13) in [balenablocks/wifi-connect](https://github.com/balenablocks/wifi-connect)
 <!--END_SECTION:activity-->
 </details>
 
