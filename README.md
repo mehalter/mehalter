@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-2. 🗣 Commented on [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-3. 🎉 Merged PR [#5](https://github.com/mehalter/mehalter.github.io/pull/5) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-4. 💪 Opened PR [#5](https://github.com/mehalter/mehalter.github.io/pull/5) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-5. ❗️ Closed issue [#62](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/issues/62) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. ❗️ Opened issue [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. ❗️ Closed issue [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+3. 🗣 Commented on [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+4. 🎉 Merged PR [#5](https://github.com/mehalter/mehalter.github.io/pull/5) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+5. 💪 Opened PR [#5](https://github.com/mehalter/mehalter.github.io/pull/5) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
 <!--END_SECTION:activity-->
 </details>
 
