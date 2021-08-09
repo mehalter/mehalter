@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-2. 🗣 Commented on [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-3. ❗️ Opened issue [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-4. ❗️ Closed issue [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-5. 🗣 Commented on [#4](https://github.com/mehalter/mehalter.github.io/issues/4) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+1. 🎉 Merged PR [#1](https://github.com/mehalter/nvim/pull/1) in [mehalter/nvim](https://github.com/mehalter/nvim)
+2. 💪 Opened PR [#1](https://github.com/mehalter/nvim/pull/1) in [mehalter/nvim](https://github.com/mehalter/nvim)
+3. 🗣 Commented on [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. 🗣 Commented on [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. ❗️ Opened issue [#4976](https://github.com/firefly-iii/firefly-iii/issues/4976) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 <!--END_SECTION:activity-->
 </details>
 
