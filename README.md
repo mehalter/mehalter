@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mehalter/nvim/pull/4) in [mehalter/nvim](https://github.com/mehalter/nvim)
-2. 💪 Opened PR [#4](https://github.com/mehalter/nvim/pull/4) in [mehalter/nvim](https://github.com/mehalter/nvim)
-3. 🎉 Merged PR [#3](https://github.com/mehalter/nvim/pull/3) in [mehalter/nvim](https://github.com/mehalter/nvim)
-4. 💪 Opened PR [#3](https://github.com/mehalter/nvim/pull/3) in [mehalter/nvim](https://github.com/mehalter/nvim)
-5. 🎉 Merged PR [#2](https://github.com/mehalter/nvim/pull/2) in [mehalter/nvim](https://github.com/mehalter/nvim)
+1. 🗣 Commented on [#27](https://github.com/makerdiary/python-keyboard/issues/27) in [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard)
+2. 🎉 Merged PR [#4](https://github.com/mehalter/nvim/pull/4) in [mehalter/nvim](https://github.com/mehalter/nvim)
+3. 💪 Opened PR [#4](https://github.com/mehalter/nvim/pull/4) in [mehalter/nvim](https://github.com/mehalter/nvim)
+4. 🎉 Merged PR [#3](https://github.com/mehalter/nvim/pull/3) in [mehalter/nvim](https://github.com/mehalter/nvim)
+5. 💪 Opened PR [#3](https://github.com/mehalter/nvim/pull/3) in [mehalter/nvim](https://github.com/mehalter/nvim)
 <!--END_SECTION:activity-->
 </details>
 
