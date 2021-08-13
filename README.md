@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mehalter/nvim/pull/8) in [mehalter/nvim](https://github.com/mehalter/nvim)
-2. 💪 Opened PR [#8](https://github.com/mehalter/nvim/pull/8) in [mehalter/nvim](https://github.com/mehalter/nvim)
-3. 🎉 Merged PR [#7](https://github.com/mehalter/nvim/pull/7) in [mehalter/nvim](https://github.com/mehalter/nvim)
-4. 💪 Opened PR [#7](https://github.com/mehalter/nvim/pull/7) in [mehalter/nvim](https://github.com/mehalter/nvim)
-5. 🗣 Commented on [#702](https://github.com/asvetliakov/vscode-neovim/issues/702) in [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim)
+1. 🗣 Commented on [#28](https://github.com/balenablocks/finabler/issues/28) in [balenablocks/finabler](https://github.com/balenablocks/finabler)
+2. 🎉 Merged PR [#8](https://github.com/mehalter/nvim/pull/8) in [mehalter/nvim](https://github.com/mehalter/nvim)
+3. 💪 Opened PR [#8](https://github.com/mehalter/nvim/pull/8) in [mehalter/nvim](https://github.com/mehalter/nvim)
+4. 🎉 Merged PR [#7](https://github.com/mehalter/nvim/pull/7) in [mehalter/nvim](https://github.com/mehalter/nvim)
+5. 💪 Opened PR [#7](https://github.com/mehalter/nvim/pull/7) in [mehalter/nvim](https://github.com/mehalter/nvim)
 <!--END_SECTION:activity-->
 </details>
 
