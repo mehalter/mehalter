@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/balena-io/contracts/issues/236) in [balena-io/contracts](https://github.com/balena-io/contracts)
-2. 🎉 Merged PR [#9](https://github.com/mehalter/nvim/pull/9) in [mehalter/nvim](https://github.com/mehalter/nvim)
-3. 💪 Opened PR [#9](https://github.com/mehalter/nvim/pull/9) in [mehalter/nvim](https://github.com/mehalter/nvim)
-4. 🗣 Commented on [#28](https://github.com/balenablocks/finabler/issues/28) in [balenablocks/finabler](https://github.com/balenablocks/finabler)
-5. 🎉 Merged PR [#8](https://github.com/mehalter/nvim/pull/8) in [mehalter/nvim](https://github.com/mehalter/nvim)
+1. 🗣 Commented on [#42](https://github.com/thomasloven/hass-fontawesome/issues/42) in [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome)
+2. 🗣 Commented on [#236](https://github.com/balena-io/contracts/issues/236) in [balena-io/contracts](https://github.com/balena-io/contracts)
+3. 🎉 Merged PR [#9](https://github.com/mehalter/nvim/pull/9) in [mehalter/nvim](https://github.com/mehalter/nvim)
+4. 💪 Opened PR [#9](https://github.com/mehalter/nvim/pull/9) in [mehalter/nvim](https://github.com/mehalter/nvim)
+5. 🗣 Commented on [#28](https://github.com/balenablocks/finabler/issues/28) in [balenablocks/finabler](https://github.com/balenablocks/finabler)
 <!--END_SECTION:activity-->
 </details>
 
