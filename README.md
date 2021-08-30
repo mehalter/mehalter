@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mehalter/mehalter.github.io/pull/6) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-2. 💪 Opened PR [#6](https://github.com/mehalter/mehalter.github.io/pull/6) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-3. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-4. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-5. 🗣 Commented on [#42](https://github.com/thomasloven/hass-fontawesome/issues/42) in [thomasloven/hass-fontawesome](https://github.com/thomasloven/hass-fontawesome)
+1. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+2. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+3. 🎉 Merged PR [#6](https://github.com/mehalter/mehalter.github.io/pull/6) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+4. 💪 Opened PR [#6](https://github.com/mehalter/mehalter.github.io/pull/6) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+5. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
 <!--END_SECTION:activity-->
 </details>
 
