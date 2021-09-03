@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
-2. 💪 Opened PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
-3. 🎉 Merged PR [#7](https://github.com/mehalter/mehalter.github.io/pull/7) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-4. 💪 Opened PR [#7](https://github.com/mehalter/mehalter.github.io/pull/7) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
-5. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+1. 🎉 Merged PR [#71](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/71) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🎉 Merged PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
+3. 💪 Opened PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
+4. 🎉 Merged PR [#7](https://github.com/mehalter/mehalter.github.io/pull/7) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
+5. 💪 Opened PR [#7](https://github.com/mehalter/mehalter.github.io/pull/7) in [mehalter/mehalter.github.io](https://github.com/mehalter/mehalter.github.io)
 <!--END_SECTION:activity-->
 </details>
 
