@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/74) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-2. 🎉 Merged PR [#46](https://github.com/mehalter/Petri.jl/pull/46) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
-3. 🎉 Merged PR [#71](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/71) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-4. 🎉 Merged PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
-5. 💪 Opened PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
+1. 🎉 Merged PR [#75](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/75) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🎉 Merged PR [#74](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/74) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+3. 🎉 Merged PR [#46](https://github.com/mehalter/Petri.jl/pull/46) in [mehalter/Petri.jl](https://github.com/mehalter/Petri.jl)
+4. 🎉 Merged PR [#71](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/71) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+5. 🎉 Merged PR [#10](https://github.com/mehalter/nvim/pull/10) in [mehalter/nvim](https://github.com/mehalter/nvim)
 <!--END_SECTION:activity-->
 </details>
 
