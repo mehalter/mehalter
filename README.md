@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/JuliaTeX/TikzCDs.jl/pull/5) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-2. ❌ Closed PR [#4](https://github.com/JuliaTeX/TikzCDs.jl/pull/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-3. 🗣 Commented on [#4](https://github.com/JuliaTeX/TikzCDs.jl/issues/4) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-4. 💪 Opened PR [#5](https://github.com/JuliaTeX/TikzCDs.jl/pull/5) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-5. 🎉 Merged PR [#75](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/75) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+1. ❗️ Closed issue [#3](https://github.com/JuliaTeX/TikzCDs.jl/issues/3) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+2. 🗣 Commented on [#3](https://github.com/JuliaTeX/TikzCDs.jl/issues/3) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+3. 🗣 Commented on [#6](https://github.com/JuliaTeX/TikzCDs.jl/issues/6) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+4. 🎉 Merged PR [#6](https://github.com/JuliaTeX/TikzCDs.jl/pull/6) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+5. 🗣 Commented on [#7](https://github.com/JuliaTeX/TikzCDs.jl/issues/7) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
 <!--END_SECTION:activity-->
 </details>
 
