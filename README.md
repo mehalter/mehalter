@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8378](https://github.com/koreader/koreader/issues/8378) in [koreader/koreader](https://github.com/koreader/koreader)
-2. ❗️ Opened issue [#8377](https://github.com/koreader/koreader/issues/8377) in [koreader/koreader](https://github.com/koreader/koreader)
-3. 🗣 Commented on [#494](https://github.com/AlgebraicJulia/Catlab.jl/issues/494) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-4. 🎉 Merged PR [#7](https://github.com/JuliaTeX/TikzCDs.jl/pull/7) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
-5. ❗️ Closed issue [#3](https://github.com/JuliaTeX/TikzCDs.jl/issues/3) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
+1. 🗣 Commented on [#11](https://github.com/kentaro-m/task-completed-checker-action/issues/11) in [kentaro-m/task-completed-checker-action](https://github.com/kentaro-m/task-completed-checker-action)
+2. ❗️ Opened issue [#8378](https://github.com/koreader/koreader/issues/8378) in [koreader/koreader](https://github.com/koreader/koreader)
+3. ❗️ Opened issue [#8377](https://github.com/koreader/koreader/issues/8377) in [koreader/koreader](https://github.com/koreader/koreader)
+4. 🗣 Commented on [#494](https://github.com/AlgebraicJulia/Catlab.jl/issues/494) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+5. 🎉 Merged PR [#7](https://github.com/JuliaTeX/TikzCDs.jl/pull/7) in [JuliaTeX/TikzCDs.jl](https://github.com/JuliaTeX/TikzCDs.jl)
 <!--END_SECTION:activity-->
 </details>
 
