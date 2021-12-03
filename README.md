@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/balena-io-playground/cluebot-server/issues/7) in [balena-io-playground/cluebot-server](https://github.com/balena-io-playground/cluebot-server)
-2. 🗣 Commented on [#11](https://github.com/kentaro-m/task-completed-checker-action/issues/11) in [kentaro-m/task-completed-checker-action](https://github.com/kentaro-m/task-completed-checker-action)
-3. ❗️ Opened issue [#8378](https://github.com/koreader/koreader/issues/8378) in [koreader/koreader](https://github.com/koreader/koreader)
-4. ❗️ Opened issue [#8377](https://github.com/koreader/koreader/issues/8377) in [koreader/koreader](https://github.com/koreader/koreader)
-5. 🗣 Commented on [#494](https://github.com/AlgebraicJulia/Catlab.jl/issues/494) in [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+1. 💪 Opened PR [#76](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/76) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
+2. 🗣 Commented on [#7](https://github.com/balena-io-playground/cluebot-server/issues/7) in [balena-io-playground/cluebot-server](https://github.com/balena-io-playground/cluebot-server)
+3. 🗣 Commented on [#11](https://github.com/kentaro-m/task-completed-checker-action/issues/11) in [kentaro-m/task-completed-checker-action](https://github.com/kentaro-m/task-completed-checker-action)
+4. ❗️ Opened issue [#8378](https://github.com/koreader/koreader/issues/8378) in [koreader/koreader](https://github.com/koreader/koreader)
+5. ❗️ Opened issue [#8377](https://github.com/koreader/koreader/issues/8377) in [koreader/koreader](https://github.com/koreader/koreader)
 <!--END_SECTION:activity-->
 </details>
 
