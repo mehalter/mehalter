@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/balena-io/contracts/pull/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
-2. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-3. ❗️ Opened issue [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-4. 💪 Opened PR [#76](https://github.com/AlgebraicJulia/AlgebraicPetri.jl/pull/76) in [AlgebraicJulia/AlgebraicPetri.jl](https://github.com/AlgebraicJulia/AlgebraicPetri.jl)
-5. 🗣 Commented on [#7](https://github.com/balena-io-playground/cluebot-server/issues/7) in [balena-io-playground/cluebot-server](https://github.com/balena-io-playground/cluebot-server)
+1. 🗣 Commented on [#274](https://github.com/balena-io/contracts/issues/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
+2. 🗣 Commented on [#274](https://github.com/balena-io/contracts/issues/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
+3. 💪 Opened PR [#274](https://github.com/balena-io/contracts/pull/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
+4. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+5. ❗️ Opened issue [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 <!--END_SECTION:activity-->
 </details>
 
