@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-2. 🗣 Commented on [#274](https://github.com/balena-io/contracts/issues/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
+2. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 3. 🗣 Commented on [#274](https://github.com/balena-io/contracts/issues/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
-4. 💪 Opened PR [#274](https://github.com/balena-io/contracts/pull/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
-5. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+4. 🗣 Commented on [#274](https://github.com/balena-io/contracts/issues/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
+5. 💪 Opened PR [#274](https://github.com/balena-io/contracts/pull/274) in [balena-io/contracts](https://github.com/balena-io/contracts)
 <!--END_SECTION:activity-->
 </details>
 
