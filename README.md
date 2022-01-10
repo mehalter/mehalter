@@ -46,9 +46,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-2. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-3. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+1. 🎉 Merged PR [#1](https://github.com/mehalter/Beanconqueror/pull/1) in [mehalter/Beanconqueror](https://github.com/mehalter/Beanconqueror)
+2. 💪 Opened PR [#1](https://github.com/mehalter/Beanconqueror/pull/1) in [mehalter/Beanconqueror](https://github.com/mehalter/Beanconqueror)
+3. 💪 Opened PR [#292](https://github.com/graphefruit/Beanconqueror/pull/292) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 4. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 5. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 <!--END_SECTION:activity-->
