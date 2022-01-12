@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/graphefruit/Beanconqueror/issues/293) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+1. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 2. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 3. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 4. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-5. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+5. 💪 Opened PR [#294](https://github.com/graphefruit/Beanconqueror/pull/294) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 <!--END_SECTION:activity-->
 </details>
 
