@@ -50,7 +50,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 2. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 3. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 4. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-5. 🗣 Commented on [#148](https://github.com/koalazak/dorita980/issues/148) in [koalazak/dorita980](https://github.com/koalazak/dorita980)
+5. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 <!--END_SECTION:activity-->
 </details>
 
