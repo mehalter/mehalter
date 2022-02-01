@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#308](https://github.com/graphefruit/Beanconqueror/issues/308) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-2. ❗️ Opened issue [#317](https://github.com/graphefruit/Beanconqueror/issues/317) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-3. 🗣 Commented on [#314](https://github.com/graphefruit/Beanconqueror/issues/314) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-4. 💪 Opened PR [#1](https://github.com/zmkfirmware/zmk-config-template/pull/1) in [zmkfirmware/zmk-config-template](https://github.com/zmkfirmware/zmk-config-template)
-5. ❗️ Opened issue [#314](https://github.com/graphefruit/Beanconqueror/issues/314) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+2. 🗣 Commented on [#308](https://github.com/graphefruit/Beanconqueror/issues/308) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+3. ❗️ Opened issue [#317](https://github.com/graphefruit/Beanconqueror/issues/317) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+4. 🗣 Commented on [#314](https://github.com/graphefruit/Beanconqueror/issues/314) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+5. 💪 Opened PR [#1](https://github.com/zmkfirmware/zmk-config-template/pull/1) in [zmkfirmware/zmk-config-template](https://github.com/zmkfirmware/zmk-config-template)
 <!--END_SECTION:activity-->
 </details>
 
