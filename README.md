@@ -47,9 +47,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-2. ❗️ Opened issue [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-3. 🗣 Commented on [#25](https://github.com/kabinspace/AstroVim/issues/25) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#25](https://github.com/kabinspace/AstroVim/issues/25) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🗣 Commented on [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+3. 🗣 Commented on [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+4. ❗️ Opened issue [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 5. 🗣 Commented on [#25](https://github.com/kabinspace/AstroVim/issues/25) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
