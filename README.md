@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/kabinspace/AstroVim/issues/69) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#1550](https://github.com/JuliaLang/www.julialang.org/pull/1550) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-3. 💪 Opened PR [#108](https://github.com/catppuccin/nvim/pull/108) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-4. 🗣 Commented on [#748](https://github.com/balena-io-library/base-images/issues/748) in [balena-io-library/base-images](https://github.com/balena-io-library/base-images)
-5. 🗣 Commented on [#366](https://github.com/nvim-neorg/neorg/issues/366) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+1. 🗣 Commented on [#69](https://github.com/kabinspace/AstroVim/issues/69) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❗️ Opened issue [#69](https://github.com/kabinspace/AstroVim/issues/69) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 💪 Opened PR [#1550](https://github.com/JuliaLang/www.julialang.org/pull/1550) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+4. 💪 Opened PR [#108](https://github.com/catppuccin/nvim/pull/108) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+5. 🗣 Commented on [#748](https://github.com/balena-io-library/base-images/issues/748) in [balena-io-library/base-images](https://github.com/balena-io-library/base-images)
 <!--END_SECTION:activity-->
 </details>
 
