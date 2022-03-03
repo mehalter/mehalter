@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/kabinspace/AstroVim/pull/95) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#109](https://github.com/catppuccin/nvim/pull/109) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-3. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
-4. 🗣 Commented on [#75](https://github.com/kabinspace/AstroVim/issues/75) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 💪 Opened PR [#84](https://github.com/kabinspace/AstroVim/pull/84) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 💪 Opened PR [#104](https://github.com/kabinspace/AstroVim/pull/104) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❗️ Opened issue [#43](https://github.com/mickael-menu/zk-nvim/issues/43) in [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim)
+3. 💪 Opened PR [#95](https://github.com/kabinspace/AstroVim/pull/95) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#109](https://github.com/catppuccin/nvim/pull/109) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+5. 🗣 Commented on [#276](https://github.com/graphefruit/Beanconqueror/issues/276) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
 <!--END_SECTION:activity-->
 </details>
 
