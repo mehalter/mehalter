@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/kabinspace/AstroVim/issues/117) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#123](https://github.com/kabinspace/AstroVim/pull/123) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 💪 Opened PR [#122](https://github.com/kabinspace/AstroVim/pull/122) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 💪 Opened PR [#120](https://github.com/kabinspace/AstroVim/pull/120) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🗣 Commented on [#118](https://github.com/kabinspace/AstroVim/issues/118) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. ❗️ Opened issue [#337](https://github.com/graphefruit/Beanconqueror/issues/337) in [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror)
+2. 🗣 Commented on [#117](https://github.com/kabinspace/AstroVim/issues/117) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 💪 Opened PR [#123](https://github.com/kabinspace/AstroVim/pull/123) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#122](https://github.com/kabinspace/AstroVim/pull/122) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 💪 Opened PR [#120](https://github.com/kabinspace/AstroVim/pull/120) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
