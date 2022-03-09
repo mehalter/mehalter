@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#134](https://github.com/kabinspace/AstroVim/issues/134) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#17](https://github.com/20k-ultra/dotfiles/pull/17) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
-3. 🗣 Commented on [#79](https://github.com/kabinspace/AstroVim/issues/79) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 💪 Opened PR [#16](https://github.com/20k-ultra/dotfiles/pull/16) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
-5. 🗣 Commented on [#130](https://github.com/kabinspace/AstroVim/issues/130) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#130](https://github.com/kabinspace/AstroVim/issues/130) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❗️ Opened issue [#134](https://github.com/kabinspace/AstroVim/issues/134) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 💪 Opened PR [#17](https://github.com/20k-ultra/dotfiles/pull/17) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
+4. 🗣 Commented on [#79](https://github.com/kabinspace/AstroVim/issues/79) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 💪 Opened PR [#16](https://github.com/20k-ultra/dotfiles/pull/16) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
 <!--END_SECTION:activity-->
 </details>
 
