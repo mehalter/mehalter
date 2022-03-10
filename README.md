@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/kabinspace/AstroVim/pull/143) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. ❗️ Opened issue [#66](https://github.com/ellisonleao/glow.nvim/issues/66) in [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)
-3. 💪 Opened PR [#142](https://github.com/kabinspace/AstroVim/pull/142) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#141](https://github.com/kabinspace/AstroVim/issues/141) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🗣 Commented on [#79](https://github.com/kabinspace/AstroVim/issues/79) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 💪 Opened PR [#144](https://github.com/kabinspace/AstroVim/pull/144) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 💪 Opened PR [#143](https://github.com/kabinspace/AstroVim/pull/143) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. ❗️ Opened issue [#66](https://github.com/ellisonleao/glow.nvim/issues/66) in [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)
+4. 💪 Opened PR [#142](https://github.com/kabinspace/AstroVim/pull/142) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#141](https://github.com/kabinspace/AstroVim/issues/141) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
