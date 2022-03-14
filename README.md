@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/kabinspace/AstroVim/issues/150) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 🗣 Commented on [#150](https://github.com/kabinspace/AstroVim/issues/150) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 💪 Opened PR [#150](https://github.com/kabinspace/AstroVim/pull/150) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. ❗️ Opened issue [#35](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/35) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
-5. 🗣 Commented on [#34](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/34) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
+1. ❗️ Closed issue [#134](https://github.com/kabinspace/AstroVim/issues/134) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🗣 Commented on [#134](https://github.com/kabinspace/AstroVim/issues/134) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 🗣 Commented on [#149](https://github.com/kabinspace/AstroVim/issues/149) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. ❗️ Closed issue [#149](https://github.com/kabinspace/AstroVim/issues/149) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🎉 Merged PR [#150](https://github.com/kabinspace/AstroVim/pull/150) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
