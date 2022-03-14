@@ -46,7 +46,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/34) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
+1. ❗️ Opened issue [#35](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/35) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
 2. 🗣 Commented on [#34](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/34) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
 3. 🗣 Commented on [#34](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/34) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
 4. 🗣 Commented on [#34](https://github.com/nvim-telescope/telescope-bibtex.nvim/issues/34) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
