@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pipex/myconfig/pull/1) in [pipex/myconfig](https://github.com/pipex/myconfig)
-2. 💪 Opened PR [#21](https://github.com/20k-ultra/dotfiles/pull/21) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
-3. 🎉 Merged PR [#160](https://github.com/kabinspace/AstroVim/pull/160) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. ❗️ Closed issue [#161](https://github.com/kabinspace/AstroVim/issues/161) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🗣 Commented on [#161](https://github.com/kabinspace/AstroVim/issues/161) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. ❗️ Closed issue [#162](https://github.com/kabinspace/AstroVim/issues/162) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 💪 Opened PR [#1](https://github.com/pipex/myconfig/pull/1) in [pipex/myconfig](https://github.com/pipex/myconfig)
+3. 💪 Opened PR [#21](https://github.com/20k-ultra/dotfiles/pull/21) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
+4. 🎉 Merged PR [#160](https://github.com/kabinspace/AstroVim/pull/160) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. ❗️ Closed issue [#161](https://github.com/kabinspace/AstroVim/issues/161) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
