@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#167](https://github.com/kabinspace/AstroVim/pull/167) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. ❌ Closed PR [#167](https://github.com/kabinspace/AstroVim/pull/167) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#165](https://github.com/kabinspace/AstroVim/issues/165) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. ❌ Closed PR [#168](https://github.com/kabinspace/AstroVim/pull/168) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❌ Reopened PR [#167](https://github.com/kabinspace/AstroVim/pull/167) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. ❌ Closed PR [#167](https://github.com/kabinspace/AstroVim/pull/167) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 4. 🗣 Commented on [#165](https://github.com/kabinspace/AstroVim/issues/165) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 💪 Opened PR [#167](https://github.com/kabinspace/AstroVim/pull/167) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#165](https://github.com/kabinspace/AstroVim/issues/165) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
