@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/kabinspace/AstroVim/pull/182) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#181](https://github.com/kabinspace/AstroVim/pull/181) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#101](https://github.com/kabinspace/AstroVim/issues/101) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#101](https://github.com/kabinspace/AstroVim/issues/101) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 💪 Opened PR [#180](https://github.com/kabinspace/AstroVim/pull/180) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#120](https://github.com/simrat39/symbols-outline.nvim/issues/120) in [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim)
+2. ❗️ Opened issue [#120](https://github.com/simrat39/symbols-outline.nvim/issues/120) in [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim)
+3. 💪 Opened PR [#182](https://github.com/kabinspace/AstroVim/pull/182) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#181](https://github.com/kabinspace/AstroVim/pull/181) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#101](https://github.com/kabinspace/AstroVim/issues/101) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
