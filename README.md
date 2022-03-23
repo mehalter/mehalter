@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#191](https://github.com/kabinspace/AstroVim/issues/191) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 🗣 Commented on [#185](https://github.com/kabinspace/AstroVim/issues/185) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#190](https://github.com/kabinspace/AstroVim/issues/190) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
-5. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
+2. ❗️ Reopened issue [#191](https://github.com/kabinspace/AstroVim/issues/191) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. ❗️ Closed issue [#191](https://github.com/kabinspace/AstroVim/issues/191) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 🗣 Commented on [#191](https://github.com/kabinspace/AstroVim/issues/191) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#191](https://github.com/kabinspace/AstroVim/issues/191) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
