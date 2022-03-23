@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
-2. 💪 Opened PR [#188](https://github.com/kabinspace/AstroVim/pull/188) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#184](https://github.com/kabinspace/AstroVim/issues/184) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#189](https://github.com/kabinspace/AstroVim/issues/189) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❗️ Opened issue [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
+3. 💪 Opened PR [#188](https://github.com/kabinspace/AstroVim/pull/188) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 4. 🗣 Commented on [#184](https://github.com/kabinspace/AstroVim/issues/184) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🎉 Merged PR [#187](https://github.com/kabinspace/AstroVim/pull/187) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#184](https://github.com/kabinspace/AstroVim/issues/184) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
