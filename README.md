@@ -46,7 +46,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
+1. 💪 Opened PR [#197](https://github.com/kabinspace/AstroVim/pull/197) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 2. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 3. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 4. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
