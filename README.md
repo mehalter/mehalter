@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/EdenEast/nightfox.nvim/pull/100) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-2. 💪 Opened PR [#204](https://github.com/kabinspace/AstroVim/pull/204) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#14](https://github.com/mrjones2014/smart-splits.nvim/issues/14) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
-4. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
+1. 🗣 Commented on [#100](https://github.com/EdenEast/nightfox.nvim/issues/100) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+2. 💪 Opened PR [#100](https://github.com/EdenEast/nightfox.nvim/pull/100) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+3. 💪 Opened PR [#204](https://github.com/kabinspace/AstroVim/pull/204) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 🗣 Commented on [#14](https://github.com/mrjones2014/smart-splits.nvim/issues/14) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 5. 🗣 Commented on [#11](https://github.com/mrjones2014/smart-splits.nvim/issues/11) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 <!--END_SECTION:activity-->
 </details>
