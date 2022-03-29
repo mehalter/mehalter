@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#230](https://github.com/kabinspace/AstroVim/issues/230) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 2. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 💪 Opened PR [#229](https://github.com/kabinspace/AstroVim/pull/229) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#229](https://github.com/kabinspace/AstroVim/pull/229) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 5. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
