@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/stevearc/dressing.nvim/issues/31) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
-2. ❗️ Opened issue [#31](https://github.com/stevearc/dressing.nvim/issues/31) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
-3. ❗️ Closed issue [#219](https://github.com/kabinspace/AstroVim/issues/219) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#219](https://github.com/kabinspace/AstroVim/issues/219) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🎉 Merged PR [#226](https://github.com/kabinspace/AstroVim/pull/226) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 💪 Opened PR [#229](https://github.com/kabinspace/AstroVim/pull/229) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#228](https://github.com/kabinspace/AstroVim/issues/228) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
