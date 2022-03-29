@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225](https://github.com/kabinspace/AstroVim/pull/225) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#224](https://github.com/kabinspace/AstroVim/pull/224) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. ❌ Closed PR [#222](https://github.com/kabinspace/AstroVim/pull/222) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#222](https://github.com/kabinspace/AstroVim/issues/222) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 💪 Opened PR [#223](https://github.com/kabinspace/AstroVim/pull/223) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+2. ❗️ Opened issue [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+3. 💪 Opened PR [#225](https://github.com/kabinspace/AstroVim/pull/225) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#224](https://github.com/kabinspace/AstroVim/pull/224) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. ❌ Closed PR [#222](https://github.com/kabinspace/AstroVim/pull/222) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
