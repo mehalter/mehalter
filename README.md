@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/kabinspace/AstroVim/pull/237) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 🗣 Commented on [#212](https://github.com/kabinspace/AstroVim/issues/212) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 💪 Opened PR [#237](https://github.com/kabinspace/AstroVim/pull/237) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#231](https://github.com/kabinspace/AstroVim/issues/231) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 💪 Opened PR [#236](https://github.com/kabinspace/AstroVim/pull/236) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#239](https://github.com/kabinspace/AstroVim/issues/239) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. ❗️ Opened issue [#239](https://github.com/kabinspace/AstroVim/issues/239) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 🎉 Merged PR [#237](https://github.com/kabinspace/AstroVim/pull/237) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 🗣 Commented on [#212](https://github.com/kabinspace/AstroVim/issues/212) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 💪 Opened PR [#237](https://github.com/kabinspace/AstroVim/pull/237) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
