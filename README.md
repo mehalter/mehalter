@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+1. 💪 Opened PR [#22](https://github.com/20k-ultra/dotfiles/pull/22) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
 2. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-3. 💪 Opened PR [#114](https://github.com/EdenEast/nightfox.nvim/pull/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-4. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+3. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+4. 💪 Opened PR [#114](https://github.com/EdenEast/nightfox.nvim/pull/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 5. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 <!--END_SECTION:activity-->
 </details>
