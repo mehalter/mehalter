@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
-2. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+1. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+2. 💪 Opened PR [#114](https://github.com/EdenEast/nightfox.nvim/pull/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 3. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 4. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
-5. ❗️ Closed issue [#245](https://github.com/kabinspace/AstroVim/issues/245) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🗣 Commented on [#631](https://github.com/nvim-lualine/lualine.nvim/issues/631) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 <!--END_SECTION:activity-->
 </details>
 
