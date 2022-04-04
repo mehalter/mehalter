@@ -46,10 +46,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#247](https://github.com/kabinspace/AstroVim/pull/247) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#247](https://github.com/kabinspace/AstroVim/pull/247) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 💪 Opened PR [#22](https://github.com/20k-ultra/dotfiles/pull/22) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
-4. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+1. 💪 Opened PR [#248](https://github.com/kabinspace/AstroVim/pull/248) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🎉 Merged PR [#247](https://github.com/kabinspace/AstroVim/pull/247) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 💪 Opened PR [#247](https://github.com/kabinspace/AstroVim/pull/247) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#22](https://github.com/20k-ultra/dotfiles/pull/22) in [20k-ultra/dotfiles](https://github.com/20k-ultra/dotfiles)
 5. 🗣 Commented on [#114](https://github.com/EdenEast/nightfox.nvim/issues/114) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 <!--END_SECTION:activity-->
 </details>
