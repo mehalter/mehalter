@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/kabinspace/AstroVim/issues/248) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. ❗️ Closed issue [#6](https://github.com/AstroNvim/astronvim.github.io/issues/6) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
-3. ❗️ Closed issue [#7](https://github.com/AstroNvim/astronvim.github.io/issues/7) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
-4. ❗️ Opened issue [#7](https://github.com/AstroNvim/astronvim.github.io/issues/7) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
-5. ❗️ Opened issue [#6](https://github.com/AstroNvim/astronvim.github.io/issues/6) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
+1. ❗️ Closed issue [#4](https://github.com/AstroNvim/astronvim.github.io/issues/4) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
+2. ❗️ Closed issue [#3](https://github.com/AstroNvim/astronvim.github.io/issues/3) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
+3. 🗣 Commented on [#248](https://github.com/kabinspace/AstroVim/issues/248) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. ❗️ Closed issue [#6](https://github.com/AstroNvim/astronvim.github.io/issues/6) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
+5. ❗️ Closed issue [#7](https://github.com/AstroNvim/astronvim.github.io/issues/7) in [AstroNvim/astronvim.github.io](https://github.com/AstroNvim/astronvim.github.io)
 <!--END_SECTION:activity-->
 </details>
 
