@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#263](https://github.com/kabinspace/AstroVim/pull/263) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#263](https://github.com/kabinspace/AstroVim/pull/263) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#262](https://github.com/kabinspace/AstroVim/issues/262) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#262](https://github.com/kabinspace/AstroVim/issues/262) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🎉 Merged PR [#260](https://github.com/kabinspace/AstroVim/pull/260) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 💪 Opened PR [#2759](https://github.com/nvim-treesitter/nvim-treesitter/pull/2759) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 💪 Opened PR [#36](https://github.com/nvim-telescope/telescope-bibtex.nvim/pull/36) in [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim)
+3. 🗣 Commented on [#6](https://github.com/jc-doyle/cmp-pandoc-references/issues/6) in [jc-doyle/cmp-pandoc-references](https://github.com/jc-doyle/cmp-pandoc-references)
+4. 🎉 Merged PR [#263](https://github.com/kabinspace/AstroVim/pull/263) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 💪 Opened PR [#263](https://github.com/kabinspace/AstroVim/pull/263) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
