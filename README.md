@@ -46,7 +46,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/kabinspace/AstroVim/issues/269) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 💪 Opened PR [#271](https://github.com/kabinspace/AstroVim/pull/271) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 2. 🗣 Commented on [#269](https://github.com/kabinspace/AstroVim/issues/269) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 3. 🗣 Commented on [#269](https://github.com/kabinspace/AstroVim/issues/269) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 4. 🗣 Commented on [#269](https://github.com/kabinspace/AstroVim/issues/269) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
