@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#274](https://github.com/kabinspace/AstroVim/pull/274) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 💪 Opened PR [#274](https://github.com/kabinspace/AstroVim/pull/274) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🎉 Merged PR [#273](https://github.com/kabinspace/AstroVim/pull/273) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🗣 Commented on [#273](https://github.com/kabinspace/AstroVim/issues/273) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-5. 🎉 Merged PR [#272](https://github.com/kabinspace/AstroVim/pull/272) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+1. 🗣 Commented on [#262](https://github.com/nvim-neo-tree/neo-tree.nvim/issues/262) in [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
+2. ❗️ Opened issue [#262](https://github.com/nvim-neo-tree/neo-tree.nvim/issues/262) in [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
+3. 🎉 Merged PR [#274](https://github.com/kabinspace/AstroVim/pull/274) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 💪 Opened PR [#274](https://github.com/kabinspace/AstroVim/pull/274) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. 🎉 Merged PR [#273](https://github.com/kabinspace/AstroVim/pull/273) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 </details>
 
