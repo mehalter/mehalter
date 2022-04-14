@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#281](https://github.com/kabinspace/AstroVim/issues/281) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-2. 🗣 Commented on [#280](https://github.com/kabinspace/AstroVim/issues/280) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-3. 🗣 Commented on [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. ❗️ Opened issue [#1](https://github.com/datamonsterr/astrovim_config/issues/1) in [datamonsterr/astrovim_config](https://github.com/datamonsterr/astrovim_config)
-5. 🎉 Merged PR [#284](https://github.com/kabinspace/AstroVim/pull/284) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+2. 🗣 Commented on [#281](https://github.com/kabinspace/AstroVim/issues/281) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+3. 🗣 Commented on [#280](https://github.com/kabinspace/AstroVim/issues/280) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+4. 🗣 Commented on [#285](https://github.com/kabinspace/AstroVim/issues/285) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
+5. ❗️ Opened issue [#1](https://github.com/datamonsterr/astrovim_config/issues/1) in [datamonsterr/astrovim_config](https://github.com/datamonsterr/astrovim_config)
 <!--END_SECTION:activity-->
 </details>
 
