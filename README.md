@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/neurosnap/neovimcraft/issues/35) in [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft)
-2. 💪 Opened PR [#35](https://github.com/neurosnap/neovimcraft/pull/35) in [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft)
-3. 🗣 Commented on [#307](https://github.com/AstroNvim/AstroNvim/issues/307) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. 🗣 Commented on [#306](https://github.com/AstroNvim/AstroNvim/issues/306) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🎉 Merged PR [#305](https://github.com/AstroNvim/AstroNvim/pull/305) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 💪 Opened PR [#308](https://github.com/AstroNvim/AstroNvim/pull/308) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🗣 Commented on [#35](https://github.com/neurosnap/neovimcraft/issues/35) in [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft)
+3. 💪 Opened PR [#35](https://github.com/neurosnap/neovimcraft/pull/35) in [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft)
+4. 🗣 Commented on [#307](https://github.com/AstroNvim/AstroNvim/issues/307) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#306](https://github.com/AstroNvim/AstroNvim/issues/306) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
