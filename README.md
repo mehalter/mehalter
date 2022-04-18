@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#216](https://github.com/andymass/vim-matchup/pull/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-2. 🗣 Commented on [#131](https://github.com/EdenEast/nightfox.nvim/issues/131) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-3. ❗️ Opened issue [#1](https://github.com/ziontee113/syntax-tree-surfer/issues/1) in [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
-4. ❗️ Opened issue [#215](https://github.com/andymass/vim-matchup/issues/215) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-5. 🎉 Merged PR [#311](https://github.com/AstroNvim/AstroNvim/pull/311) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 🎉 Merged PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 💪 Opened PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 🗣 Commented on [#216](https://github.com/andymass/vim-matchup/issues/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
+4. 💪 Opened PR [#216](https://github.com/andymass/vim-matchup/pull/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
+5. 🗣 Commented on [#131](https://github.com/EdenEast/nightfox.nvim/issues/131) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 <!--END_SECTION:activity-->
 </details>
 
