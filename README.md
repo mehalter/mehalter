@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 💪 Opened PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🗣 Commented on [#216](https://github.com/andymass/vim-matchup/issues/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-4. 💪 Opened PR [#216](https://github.com/andymass/vim-matchup/pull/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-5. 🗣 Commented on [#131](https://github.com/EdenEast/nightfox.nvim/issues/131) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+1. 💪 Opened PR [#90](https://github.com/SmiteshP/nvim-gps/pull/90) in [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps)
+2. 🗣 Commented on [#216](https://github.com/andymass/vim-matchup/issues/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
+3. 🎉 Merged PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 💪 Opened PR [#312](https://github.com/AstroNvim/AstroNvim/pull/312) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#216](https://github.com/andymass/vim-matchup/issues/216) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
 <!--END_SECTION:activity-->
 </details>
 
