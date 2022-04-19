@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com/AstroNvim/AstroNvim/issues/313) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🗣 Commented on [#313](https://github.com/AstroNvim/AstroNvim/issues/313) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. ❗️ Closed issue [#313](https://github.com/AstroNvim/AstroNvim/issues/313) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. ❗️ Closed issue [#1](https://github.com/datamonsterr/astronvim_config/issues/1) in [datamonsterr/astronvim_config](https://github.com/datamonsterr/astronvim_config)
-5. 🗣 Commented on [#1](https://github.com/datamonsterr/astronvim_config/issues/1) in [datamonsterr/astronvim_config](https://github.com/datamonsterr/astronvim_config)
+1. ❗️ Closed issue [#314](https://github.com/AstroNvim/AstroNvim/issues/314) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🗣 Commented on [#314](https://github.com/AstroNvim/AstroNvim/issues/314) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 💪 Opened PR [#217](https://github.com/andymass/vim-matchup/pull/217) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
+4. 🗣 Commented on [#313](https://github.com/AstroNvim/AstroNvim/issues/313) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#313](https://github.com/AstroNvim/AstroNvim/issues/313) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
