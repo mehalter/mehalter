@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/andymass/vim-matchup/issues/217) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-2. 🗣 Commented on [#844](https://github.com/hrsh7th/nvim-cmp/issues/844) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-3. 🎉 Merged PR [#317](https://github.com/AstroNvim/AstroNvim/pull/317) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. 🎉 Merged PR [#316](https://github.com/AstroNvim/AstroNvim/pull/316) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 💪 Opened PR [#317](https://github.com/AstroNvim/AstroNvim/pull/317) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 💪 Opened PR [#922](https://github.com/hrsh7th/nvim-cmp/pull/922) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+2. 🗣 Commented on [#217](https://github.com/andymass/vim-matchup/issues/217) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
+3. 🗣 Commented on [#844](https://github.com/hrsh7th/nvim-cmp/issues/844) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+4. 🎉 Merged PR [#317](https://github.com/AstroNvim/AstroNvim/pull/317) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🎉 Merged PR [#316](https://github.com/AstroNvim/AstroNvim/pull/316) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
