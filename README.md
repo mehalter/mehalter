@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#374](https://github.com/AstroNvim/AstroNvim/pull/374) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 💪 Opened PR [#374](https://github.com/AstroNvim/AstroNvim/pull/374) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🎉 Merged PR [#373](https://github.com/AstroNvim/AstroNvim/pull/373) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. ❗️ Closed issue [#6](https://github.com/itchyny/vim-highlighturl/issues/6) in [itchyny/vim-highlighturl](https://github.com/itchyny/vim-highlighturl)
-5. 🗣 Commented on [#6](https://github.com/itchyny/vim-highlighturl/issues/6) in [itchyny/vim-highlighturl](https://github.com/itchyny/vim-highlighturl)
+1. 💪 Opened PR [#376](https://github.com/AstroNvim/AstroNvim/pull/376) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🎉 Merged PR [#375](https://github.com/AstroNvim/AstroNvim/pull/375) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 💪 Opened PR [#375](https://github.com/AstroNvim/AstroNvim/pull/375) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🎉 Merged PR [#374](https://github.com/AstroNvim/AstroNvim/pull/374) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 💪 Opened PR [#374](https://github.com/AstroNvim/AstroNvim/pull/374) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
