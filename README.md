@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#379](https://github.com/AstroNvim/AstroNvim/issues/379) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🗣 Commented on [#379](https://github.com/AstroNvim/AstroNvim/issues/379) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🗣 Commented on [#631](https://github.com/williamboman/nvim-lsp-installer/issues/631) in [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
-4. 🗣 Commented on [#343](https://github.com/AstroNvim/AstroNvim/issues/343) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🎉 Merged PR [#378](https://github.com/AstroNvim/AstroNvim/pull/378) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 🗣 Commented on [#381](https://github.com/AstroNvim/AstroNvim/issues/381) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. ❗️ Closed issue [#379](https://github.com/AstroNvim/AstroNvim/issues/379) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 🗣 Commented on [#379](https://github.com/AstroNvim/AstroNvim/issues/379) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🗣 Commented on [#631](https://github.com/williamboman/nvim-lsp-installer/issues/631) in [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
+5. 🗣 Commented on [#343](https://github.com/AstroNvim/AstroNvim/issues/343) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
