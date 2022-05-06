@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/AstroNvim/AstroNvim/issues/474) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🗣 Commented on [#474](https://github.com/AstroNvim/AstroNvim/issues/474) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🗣 Commented on [#478](https://github.com/AstroNvim/AstroNvim/issues/478) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. 🗣 Commented on [#477](https://github.com/AstroNvim/AstroNvim/issues/477) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. ❗️ Closed issue [#477](https://github.com/AstroNvim/AstroNvim/issues/477) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 💪 Opened PR [#480](https://github.com/AstroNvim/AstroNvim/pull/480) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 💪 Opened PR [#479](https://github.com/AstroNvim/AstroNvim/pull/479) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 🗣 Commented on [#474](https://github.com/AstroNvim/AstroNvim/issues/474) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🗣 Commented on [#474](https://github.com/AstroNvim/AstroNvim/issues/474) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#478](https://github.com/AstroNvim/AstroNvim/issues/478) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
