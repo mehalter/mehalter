@@ -46,8 +46,8 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 🎉 Merged PR [#489](https://github.com/AstroNvim/AstroNvim/pull/489) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 💪 Opened PR [#489](https://github.com/AstroNvim/AstroNvim/pull/489) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 3. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 4. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 5. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
