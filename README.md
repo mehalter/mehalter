@@ -49,8 +49,8 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 1. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 2. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 3. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. ❌ Closed PR [#485](https://github.com/AstroNvim/AstroNvim/pull/485) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🗣 Commented on [#485](https://github.com/AstroNvim/AstroNvim/issues/485) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#466](https://github.com/AstroNvim/AstroNvim/issues/466) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
