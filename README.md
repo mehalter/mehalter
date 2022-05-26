@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#236](https://github.com/balena-io/contracts/issues/236) in [balena-io/contracts](https://github.com/balena-io/contracts)
-2. 🗣 Commented on [#391](https://github.com/AstroNvim/AstroNvim/issues/391) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🗣 Commented on [#236](https://github.com/balena-io/contracts/issues/236) in [balena-io/contracts](https://github.com/balena-io/contracts)
 3. 🗣 Commented on [#391](https://github.com/AstroNvim/AstroNvim/issues/391) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. 🗣 Commented on [#161](https://github.com/EdenEast/nightfox.nvim/issues/161) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-5. 🗣 Commented on [#160](https://github.com/EdenEast/nightfox.nvim/issues/160) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+4. 🗣 Commented on [#391](https://github.com/AstroNvim/AstroNvim/issues/391) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#161](https://github.com/EdenEast/nightfox.nvim/issues/161) in [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
 <!--END_SECTION:activity-->
 </details>
 
