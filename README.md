@@ -47,9 +47,9 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#576](https://github.com/AstroNvim/AstroNvim/issues/576) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🗣 Commented on [#575](https://github.com/AstroNvim/AstroNvim/issues/575) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🗣 Commented on [#575](https://github.com/AstroNvim/AstroNvim/issues/575) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. ❗️ Closed issue [#575](https://github.com/AstroNvim/AstroNvim/issues/575) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🗣 Commented on [#572](https://github.com/AstroNvim/AstroNvim/issues/572) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 🗣 Commented on [#576](https://github.com/AstroNvim/AstroNvim/issues/576) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. 🗣 Commented on [#575](https://github.com/AstroNvim/AstroNvim/issues/575) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 5. 🗣 Commented on [#575](https://github.com/AstroNvim/AstroNvim/issues/575) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
