@@ -46,11 +46,11 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#573](https://github.com/AstroNvim/AstroNvim/pull/573) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 💪 Opened PR [#573](https://github.com/AstroNvim/AstroNvim/pull/573) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. 🗣 Commented on [#571](https://github.com/AstroNvim/AstroNvim/issues/571) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. 🗣 Commented on [#570](https://github.com/AstroNvim/AstroNvim/issues/570) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🎉 Merged PR [#573](https://github.com/AstroNvim/AstroNvim/pull/573) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 💪 Opened PR [#573](https://github.com/AstroNvim/AstroNvim/pull/573) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 4. 🗣 Commented on [#571](https://github.com/AstroNvim/AstroNvim/issues/571) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🗣 Commented on [#18660](https://github.com/neovim/neovim/issues/18660) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#571](https://github.com/AstroNvim/AstroNvim/issues/571) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
