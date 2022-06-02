@@ -47,10 +47,10 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#427](https://github.com/AstroNvim/AstroNvim/issues/427) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-2. 🎉 Merged PR [#585](https://github.com/AstroNvim/AstroNvim/pull/585) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-3. ❗️ Closed issue [#584](https://github.com/AstroNvim/AstroNvim/issues/584) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-4. 🗣 Commented on [#584](https://github.com/AstroNvim/AstroNvim/issues/584) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 💪 Opened PR [#585](https://github.com/AstroNvim/AstroNvim/pull/585) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+2. 🗣 Commented on [#427](https://github.com/AstroNvim/AstroNvim/issues/427) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+3. 🎉 Merged PR [#585](https://github.com/AstroNvim/AstroNvim/pull/585) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+4. ❗️ Closed issue [#584](https://github.com/AstroNvim/AstroNvim/issues/584) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#584](https://github.com/AstroNvim/AstroNvim/issues/584) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
