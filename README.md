@@ -50,7 +50,7 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 2. 🗣 Commented on [#581](https://github.com/AstroNvim/AstroNvim/issues/581) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 3. 🗣 Commented on [#581](https://github.com/AstroNvim/AstroNvim/issues/581) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 4. 🗣 Commented on [#581](https://github.com/AstroNvim/AstroNvim/issues/581) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-5. 🎉 Merged PR [#583](https://github.com/AstroNvim/AstroNvim/pull/583) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+5. 🗣 Commented on [#581](https://github.com/AstroNvim/AstroNvim/issues/581) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 <!--END_SECTION:activity-->
 </details>
 
