@@ -42,29 +42,21 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 
 ---
 
+<!-- <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.mehalter.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mehalter&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR" />
+
 <details>
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Closed issue [#616](https://github.com/AstroNvim/AstroNvim/issues/616) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 2. 🗣 Commented on [#616](https://github.com/AstroNvim/AstroNvim/issues/616) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 3. 🗣 Commented on [#616](https://github.com/AstroNvim/AstroNvim/issues/616) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 4. 🗣 Commented on [#616](https://github.com/AstroNvim/AstroNvim/issues/616) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
 5. ❌ Closed PR [#617](https://github.com/AstroNvim/AstroNvim/pull/617) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-<summary>:zap: Github Stats</summary>
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.mehalter.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" />
-</details>
+   <!--END_SECTION:activity-->
+   </details>
 
 [website]: https://mehalter.com
 [linkedin]: https://linkedin.com/in/mehalter
-
-
-<details>
-<summary>:interrobang: octo-ring</summary>
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/mehalter/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/mehalter/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/mehalter/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-</details>
