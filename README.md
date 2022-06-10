@@ -45,6 +45,8 @@ Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com
 <!-- <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.mehalter.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" /> -->
 <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mehalter&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR" />
 
+<br />
+
 <details>
 <summary>:zap: Recent Github Activity</summary>
 
