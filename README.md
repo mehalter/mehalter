@@ -1,7 +1,7 @@
 ### Hello, World!
 
 I have moved a lot of my personal projects off of GitHub to a personal Git.
-Checkout the rest of my portfolio at [git.mehalter.com](https://git.mehalter.com/mehalter)
+Checkout the rest of my portfolio at [code.mehalter.com](https://code.mehalter.com)
 
 - 🔭 I’m currently working on using category theory to improve the
   representation of scientific knowledge and models
