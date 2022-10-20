@@ -20,7 +20,11 @@ Checkout the rest of my portfolio at [code.mehalter.com](https://code.mehalter.c
 <br/>
 
 <!-- <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats.mehalter.vercel.app/api?username=mehalter&show_icons=true&hide_border=true" /> -->
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mehalter&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" />
+<!-- Light Mode -->
+<!-- <img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=mehalter&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR#gh-light-mode-only" /> -->
+
+<!-- Dark Mode -->
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=mehalter&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" />
 
 [website]: https://mehalter.com
 [linkedin]: https://linkedin.com/in/mehalter
