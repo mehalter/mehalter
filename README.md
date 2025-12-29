@@ -11,17 +11,10 @@ Checkout the rest of my portfolio at [code.mehalter.com](https://code.mehalter.c
   a cocktail catering service in Atlanta, GA
 - 📫 My contact information can be found at [mehalter.com](https://mehalter.com)
 
-<!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehalter&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=default#gh-light-mode-only" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehalter&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only"" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" alt="mehalter's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=mehalter&show_icons=true&hide_border=1&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff" />
+<img align="left" alt="mehalter's Coding Stats" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mehalter&api_domain=waka.mehalter.com&layout=compact&langs_count=50&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff" />
 </a>
 </div>
 
